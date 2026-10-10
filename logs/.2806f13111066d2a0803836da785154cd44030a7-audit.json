@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\logs\\.2806f13111066d2a0803836da785154cd44030a7-audit.json",
+    "files": [
+        {
+            "date": 1791621211699,
+            "name": "C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\logs\\error-2026-10-10.log",
+            "hash": "1976f1c84bfb56a95f0a2fee62e24a369246af50130fe38879cbabf1d9331337"
+        }
+    ],
+    "hashType": "sha256"
+}

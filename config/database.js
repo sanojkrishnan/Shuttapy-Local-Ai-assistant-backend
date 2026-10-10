@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
-const config = require("./config");
 const logger = require("../utils/logger");
+const config = require("./config");
 
 class DatabaseConnection {
   //class for creating db connection
@@ -19,7 +19,7 @@ class DatabaseConnection {
         socketTimeoutMS: 45000,
         family: 4,
       };
-      await mongoose.connect(config.MONGO_URL, options); //mongodb connection
+      await mongoose.connect(config.MONGO_URI, options); //mongodb connection
       this.isConnected = true;
       logger.info("MongoDB connected successfully");
       mongoose.connection.on("error", (err) => {

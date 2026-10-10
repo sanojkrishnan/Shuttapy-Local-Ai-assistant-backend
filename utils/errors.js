@@ -1,5 +1,3 @@
-
-
 // Used for managing errors in the application ()
 class AppError extends Error {
   constructor(message, statusCode = 500, code = 'INTERNAL_ERROR') {

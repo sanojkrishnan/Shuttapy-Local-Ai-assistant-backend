@@ -3,7 +3,7 @@ require("dotenv").config();
 module.exports = {
   PORT: process.env.PORT,
 
-  MONGO_URL: process.env.MONGO_URL,
+  MONGO_URI: process.env.MONGO_URI,
 
   CORS: {
     ORIGIN: process.env.CORS_STR,
@@ -24,4 +24,8 @@ module.exports = {
     USER_SECRET: process.env.JWT_USER_SECRET,
     EXPIRE_IN: process.env.JWT_EXPIRES_IN,
   },
+
+  OLLAMA_URL: process.env.OLLAMA_URL,
+
+  OLLAMA_MODEL: process.env.OLLAMA_MODEL || "shuttapy",
 };

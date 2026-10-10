@@ -1,14 +1,12 @@
 const express = require("express");
 const http = require("http");
 const logger = require("./utils/logger");
-const { setupMiddleware } = require("./middleware/setup");
 const { setupRoutes } = require("./routes");
 const { initializeSocket } = require("./utils/socket");
-const { runSeeders } = require("./utils/seeder");
 const config = require("./config/config");
-const { errorHandler, notFound } = require("./middleware/errorHandler");
 const DBConnect = require("./config/database");
-require("./jobs/couponStatusCron");
+const { setupMiddleware } = require("./middlewares/setup");
+const { errorHandler, notFound } = require("./middlewares/errorHanndler");
 
 class Server {
   constructor() {
@@ -42,13 +40,8 @@ class Server {
 
     this.server.listen(this.port, async () => {
       logger.info(
-        `Server running in ${config.NODE_ENV} mode on port ${this.port}`,
+        `Server running in ${config.NODE_ENV || "production"} mode on port ${this.port}`,
       );
-
-      setTimeout(async () => {
-        //this setTTimeout will wait for mongodb to warm up before seeding
-        await runSeeders();
-      }, 2000);
     });
     this.setupGraceFullShutdown(); //shutdown gracefully when exit the server
   }
