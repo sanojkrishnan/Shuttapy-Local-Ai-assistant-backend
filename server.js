@@ -24,7 +24,7 @@ class Server {
       this.app.use(notFound); //if anu unknown rout is came
       this.app.use(errorHandler); //error handle
 
-      initializeSocket(this.server); // initialize socket io
+      this.io = initializeSocket(this.server); // initialize socket io
 
       logger.info("Server initialized successfully"); //logs all activities
     } catch (error) {

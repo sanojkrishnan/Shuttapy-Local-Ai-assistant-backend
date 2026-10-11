@@ -1,0 +1,802 @@
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 200"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Client connected: _39r6qKGOLs-j5xDAAAA"}
+{"level":"info","message":"Client disconnected: _39r6qKGOLs-j5xDAAAA"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/health from ::1"}
+{"level":"info","message":"Response completed GET /api/health - 304"}
+{"level":"info","message":"Client connected: loxcHSDr-xmuao2-AAAB"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Incoming request: GET /api/modelhealth from ::1"}
+{"ip":"::1","level":"warn","message":"Route /api/modelhealth not found","method":"GET","url":"/api/modelhealth"}
+{"level":"info","message":"Response completed GET /api/modelhealth - 404"}
+{"level":"info","message":"Incoming request: GET /api/modelhealth from ::1"}
+{"ip":"::1","level":"warn","message":"Route /api/modelhealth not found","method":"GET","url":"/api/modelhealth"}
+{"level":"info","message":"Response completed GET /api/modelhealth - 404"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"ip":"::1","level":"warn","message":"Route /api/model/health not found","method":"GET","url":"/api/model/health"}
+{"level":"info","message":"Response completed GET /api/model/health - 404"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"ip":"::1","level":"warn","message":"Route /api/model/health not found","method":"GET","url":"/api/model/health"}
+{"level":"info","message":"Response completed GET /api/model/health - 404"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 200"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: L_K-sbPOQiZZigflAAAA"}
+{"level":"info","message":"Client disconnected: L_K-sbPOQiZZigflAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: i-EV4YV007JkKunaAAAB"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: MINw7q9VihkEq6FiAAAA"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: RjYbNjaz7OlzAr2gAAAA"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: I9aCAdPBOOHdOwVlAAAA"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: ojVUzIfCZzaTXQurAAAA"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: JVSIvCMTfihv6ooPAAAA"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: HYL3mkvN4hUbTl4-AAAA"}
+{"level":"info","message":"Client disconnected: HYL3mkvN4hUbTl4-AAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: DLHIryfNhUlL7ozmAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 200"}
+{"level":"info","message":"Client disconnected: DLHIryfNhUlL7ozmAAAB"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: nJJMsClvfk_Pl_AjAAAC"}
+{"level":"info","message":"Response completed GET /api/model/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 200"}
+{"level":"info","message":"Client disconnected: nJJMsClvfk_Pl_AjAAAC"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: iOf5jBuUKBm9FIQWAAAD"}
+{"level":"info","message":"Response completed GET /api/model/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 200"}
+{"level":"info","message":"Client disconnected: iOf5jBuUKBm9FIQWAAAD"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: dCah1S6LFOFuZAnkAAAE"}
+{"level":"info","message":"Response completed GET /api/model/health - 503"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 200"}
+{"level":"info","message":"Client disconnected: dCah1S6LFOFuZAnkAAAE"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: 7drW_4l5JAdHi_HlAAAF"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: DI9Xa5koytlfmbsCAAAA"}
+{"level":"info","message":"Client disconnected: DI9Xa5koytlfmbsCAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: Kc5ks8cyG_HYpeAFAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: EjPEWXR8Nz3IxbHRAAAA"}
+{"level":"info","message":"Client disconnected: EjPEWXR8Nz3IxbHRAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: c2ulwsyV1NFbuZ4EAAAB"}
+{"level":"info","message":"Client disconnected: c2ulwsyV1NFbuZ4EAAAB"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: BSipJBP1ufhfgC_HAAAC"}
+{"level":"info","message":"Client disconnected: BSipJBP1ufhfgC_HAAAC"}
+{"level":"info","message":"Client connected: Z6Q1uyj5xdeLgUZrAAAD"}
+{"level":"info","message":"Client disconnected: Z6Q1uyj5xdeLgUZrAAAD"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: hv1O-VkZLM-6IgOPAAAE"}
+{"level":"info","message":"Client disconnected: hv1O-VkZLM-6IgOPAAAE"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: Jn-uMOEN8rjzdUSDAAAF"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: Jn-uMOEN8rjzdUSDAAAF"}
+{"level":"info","message":"Client connected: grRsyyAEVy6oKk3EAAAG"}
+{"level":"info","message":"Client disconnected: grRsyyAEVy6oKk3EAAAG"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: cnJzBRbpTCoLR85tAAAH"}
+{"level":"info","message":"Client disconnected: cnJzBRbpTCoLR85tAAAH"}
+{"level":"info","message":"Client connected: FNPdGBZ6KnHSbnLcAAAI"}
+{"level":"info","message":"Client disconnected: FNPdGBZ6KnHSbnLcAAAI"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: u9luKk4ciIa9k40iAAAJ"}
+{"level":"info","message":"Response completed GET /api/model/health - 503"}
+{"level":"info","message":"Client disconnected: u9luKk4ciIa9k40iAAAJ"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: Hko8Zs7fqJpdjKzLAAAK"}
+{"level":"info","message":"Response completed GET /api/model/health - 200"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: F8KsCqE6phJXpF6DAAAA"}
+{"level":"info","message":"Client disconnected: F8KsCqE6phJXpF6DAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: chvN-IRBtatXKtHOAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: chvN-IRBtatXKtHOAAAB"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: Ta0P8Mz4x7TLqwDqAAAA"}
+{"level":"info","message":"Client disconnected: Ta0P8Mz4x7TLqwDqAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: izivRHTqVaH3ucwLAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: izivRHTqVaH3ucwLAAAB"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: tDhfDlai_EMYqvH4AAAA"}
+{"level":"info","message":"Client disconnected: tDhfDlai_EMYqvH4AAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: JvT8stp3kd9jMjb4AAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: SgWXb-0mvOrv9c4MAAAA"}
+{"level":"info","message":"Client disconnected: SgWXb-0mvOrv9c4MAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: b13ofB1hXwgPP8IVAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: b13ofB1hXwgPP8IVAAAB"}
+{"level":"info","message":"Client connected: dNyVlrSlQigoTqSKAAAC"}
+{"level":"info","message":"Client disconnected: dNyVlrSlQigoTqSKAAAC"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: xQpHmOKQU4bX7HUaAAAA"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Client disconnected: xQpHmOKQU4bX7HUaAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: LYwIceVjupYpgfdvAAAB"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Client disconnected: LYwIceVjupYpgfdvAAAB"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: JStb4SsAEQFnj1WVAAAC"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: FeI6JHzQaHNlEzBTAAAA"}
+{"level":"info","message":"Client disconnected: FeI6JHzQaHNlEzBTAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: kEluejo2wzxGhO0pAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: kEluejo2wzxGhO0pAAAB"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: KkS_ogD2G1Lq5gg-AAAC"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Response completed GET /api/model/health - 200"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: KkS_ogD2G1Lq5gg-AAAC"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: U_fm-tCnoIr7XW9kAAAD"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: U_fm-tCnoIr7XW9kAAAD"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: r4KYcFWd-2LwPmLfAAAE"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: r4KYcFWd-2LwPmLfAAAE"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: Gs0gae0qv8cdmXqzAAAF"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: Gs0gae0qv8cdmXqzAAAF"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: YV_rDePsUlvrcV5qAAAG"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: YV_rDePsUlvrcV5qAAAG"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: xyTo5463VyraUhbUAAAA"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Client disconnected: xyTo5463VyraUhbUAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: bavlnbPOUkncVKTNAAAB"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Client disconnected: bavlnbPOUkncVKTNAAAB"}
+{"level":"info","message":"Client connected: _8P7b_85bTaSfoHOAAAC"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Client disconnected: _8P7b_85bTaSfoHOAAAC"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: ZZ8NhdprlaYLqfhgAAAD"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"error","message":"Failed to read system resources: Cannot read properties of undefined (reading 'getResources')","stack":"TypeError: Cannot read properties of undefined (reading 'getResources')\n    at getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:29)\n    at Socket.<anonymous> (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\routes\\systemSocket.js:7:5)\n    at Socket.emit (node:events:509:28)\n    at Socket.emitUntyped (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\socket.io\\dist\\socket.js:693:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: TRKQPlpdDJDPloTcAAAA"}
+{"level":"info","message":"Client disconnected: TRKQPlpdDJDPloTcAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: oCqQHTE9rOmTyzAZAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: oCqQHTE9rOmTyzAZAAAB"}
+{"level":"info","message":"Client connected: BAhJTXHOLVoh4ixMAAAC"}
+{"level":"info","message":"Client disconnected: BAhJTXHOLVoh4ixMAAAC"}
+{"level":"info","message":"Client connected: ZyAOjY9RYvRCBzqSAAAD"}
+{"level":"info","message":"Client disconnected: ZyAOjY9RYvRCBzqSAAAD"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: VnLlScPzZXnGij8NAAAA"}
+{"level":"info","message":"Client disconnected: VnLlScPzZXnGij8NAAAA"}
+{"level":"info","message":"Client connected: -hQIe2iSqFcAkeQwAAAB"}
+{"level":"info","message":"Client disconnected: -hQIe2iSqFcAkeQwAAAB"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: JhNfukuTzwxo-jYMAAAC"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: I4EAPEyaNT7NKjwgAAAA"}
+{"level":"info","message":"Client disconnected: I4EAPEyaNT7NKjwgAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: i6svneB2CjAZC_mzAAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: i6svneB2CjAZC_mzAAAB"}
+{"level":"info","message":"Client connected: W4lsnRzjeV1J34P_AAAC"}
+{"level":"info","message":"Client disconnected: W4lsnRzjeV1J34P_AAAC"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: SFPZsvov-BAL3k5YAAAD"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: SFPZsvov-BAL3k5YAAAD"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: VoXz5IdsjMRvM3suAAAE"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: VoXz5IdsjMRvM3suAAAE"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: HWTvY_xoHsYHdv1WAAAF"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: HWTvY_xoHsYHdv1WAAAF"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: rSrWlkfDWaAxq6R9AAAG"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: rSrWlkfDWaAxq6R9AAAG"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: YnswVWfMYHPigxgSAAAH"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: nPi9irTZraq9H8uRAAAA"}
+{"level":"info","message":"Client disconnected: nPi9irTZraq9H8uRAAAA"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: D2VVu8UBaij70UzwAAAA"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: D2VVu8UBaij70UzwAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: 0m4LKzlXj-Wkbv1PAAAB"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: 0m4LKzlXj-Wkbv1PAAAB"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: 30ANAe-XZfSMiJFZAAAC"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: ObZFpokXMtUbRoSzAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: ObZFpokXMtUbRoSzAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: Zw5ToKqHVuYKNaC9AAAB"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: m4x7rYBdaspSFIOJAAAA"}
+{"level":"info","message":"Client disconnected: m4x7rYBdaspSFIOJAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: TANpsZFlbpO9FGi6AAAB"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: WOtZn-gpmz84Oj-vAAAA"}
+{"level":"info","message":"Client disconnected: WOtZn-gpmz84Oj-vAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: 5ZWcInDqaRQWkitKAAAB"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: m13G96ryXX3oNH1ZAAAA"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: jj_eIABkJ5kUPX-oAAAA"}
+{"level":"info","message":"Client disconnected: jj_eIABkJ5kUPX-oAAAA"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client connected: DyrQHKl56xmNQn3VAAAB"}
+{"level":"error","message":"Failed to read system resources: gpuBusyFrom is not defined","stack":"ReferenceError: gpuBusyFrom is not defined\n    at Object.getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\systemStatsService.js:134:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:9)"}
+{"level":"error","message":"Failed to read system resources: gpuBusyFrom is not defined","stack":"ReferenceError: gpuBusyFrom is not defined\n    at Object.getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\systemStatsService.js:134:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:9)"}
+{"level":"error","message":"Failed to read system resources: gpuBusyFrom is not defined","stack":"ReferenceError: gpuBusyFrom is not defined\n    at Object.getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\systemStatsService.js:134:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:9)"}
+{"level":"error","message":"Failed to read system resources: gpuBusyFrom is not defined","stack":"ReferenceError: gpuBusyFrom is not defined\n    at Object.getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\systemStatsService.js:134:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async getResources (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\systemController.js:6:9)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Client connected: qZD2_-FXVHLhrIq3AAAA"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Incoming request: GET /api/model/health from ::1"}
+{"level":"info","message":"Response completed GET /api/model/health - 304"}
+{"level":"info","message":"Client disconnected: qZD2_-FXVHLhrIq3AAAA"}
+{"level":"info","message":"Client connected: QGjqsvfsMvwPDIXSAAAB"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: RVJIrAiRsfrFM17HAAAA"}
+{"level":"info","message":"Client disconnected: RVJIrAiRsfrFM17HAAAA"}
+{"level":"info","message":"Client connected: 9nfsYxsuiyegzHPUAAAB"}
+{"level":"info","message":"Client disconnected: 9nfsYxsuiyegzHPUAAAB"}
+{"level":"info","message":"Client connected: L5kNpwnniD0WcK7KAAAC"}
+{"level":"info","message":"Client disconnected: L5kNpwnniD0WcK7KAAAC"}
+{"level":"info","message":"Client connected: 1VBoPBnTSAqgFUcMAAAD"}
+{"level":"info","message":"Client disconnected: 1VBoPBnTSAqgFUcMAAAD"}
+{"level":"info","message":"Client connected: MxpMGxt_UW0NWt97AAAE"}
+{"level":"info","message":"Client disconnected: MxpMGxt_UW0NWt97AAAE"}
+{"level":"info","message":"Client connected: twy2Si9-PyqVpZ_SAAAF"}
+{"level":"info","message":"Client disconnected: twy2Si9-PyqVpZ_SAAAF"}
+{"level":"info","message":"Client connected: KaL_uBVEcABGG1IAAAAG"}
+{"level":"info","message":"Client disconnected: KaL_uBVEcABGG1IAAAAG"}
+{"level":"info","message":"Client connected: ytoSXaiMnv18o9mpAAAH"}
+{"level":"info","message":"Client disconnected: ytoSXaiMnv18o9mpAAAH"}
+{"level":"info","message":"Client connected: POHoXck3nzxw3jM7AAAI"}
+{"level":"info","message":"Client disconnected: POHoXck3nzxw3jM7AAAI"}
+{"level":"info","message":"Client connected: 8niX0knAIONHkJr0AAAJ"}
+{"level":"info","message":"Client disconnected: 8niX0knAIONHkJr0AAAJ"}
+{"level":"info","message":"Client connected: 51z-go_NuHjV4YKGAAAK"}
+{"level":"info","message":"Client disconnected: 51z-go_NuHjV4YKGAAAK"}
+{"level":"info","message":"Client connected: 1w45PLbzbHNkDeOTAAAL"}
+{"level":"info","message":"Client disconnected: 1w45PLbzbHNkDeOTAAAL"}
+{"level":"info","message":"Client connected: aC3JjgqEfo9GTgFBAAAM"}
+{"level":"info","message":"Client disconnected: aC3JjgqEfo9GTgFBAAAM"}
+{"level":"info","message":"Client connected: S1qzXqko-b4pE66eAAAN"}
+{"level":"info","message":"Client disconnected: S1qzXqko-b4pE66eAAAN"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: 3JmuWjVTeEr6_v90AAAA"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: 1g4soCxyLqZI8f8oAAAA"}
+{"level":"info","message":"Client disconnected: 1g4soCxyLqZI8f8oAAAA (transport close)"}
+{"level":"info","message":"Client connected: 2rpd5GLaXDzE3SVoAAAB"}
+{"level":"info","message":"Client disconnected: 2rpd5GLaXDzE3SVoAAAB (ping timeout)"}
+{"level":"info","message":"Client connected: qugYDKUpJ-Ufc5k5AAAC"}
+{"level":"info","message":"Client disconnected: qugYDKUpJ-Ufc5k5AAAC (ping timeout)"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: hillWzEHUgGt4IUcAAAA"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Client disconnected: hillWzEHUgGt4IUcAAAA (ping timeout)"}
+{"level":"info","message":"Client connected: f6Ilc9RP0GYsGj18AAAB"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Client disconnected: f6Ilc9RP0GYsGj18AAAB (ping timeout)"}
+{"level":"info","message":"Client connected: NXqo47AoCOqfBbsVAAAC"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Client disconnected: NXqo47AoCOqfBbsVAAAC (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: WTVkSkULZh6Kea-eAAAA"}
+{"level":"info","message":"Client disconnected: WTVkSkULZh6Kea-eAAAA (transport close)"}
+{"level":"info","message":"Client connected: -c9Uk5jWdoCccRXOAAAB"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Client disconnected: -c9Uk5jWdoCccRXOAAAB (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: f3N-0dmnAvT6yr-pAAAA"}
+{"level":"info","message":"Client disconnected: f3N-0dmnAvT6yr-pAAAA (transport close)"}
+{"level":"info","message":"Client connected: _FRVlNimQqh5Q3_TAAAB"}
+{"level":"info","message":"Client disconnected: _FRVlNimQqh5Q3_TAAAB (transport close)"}
+{"level":"info","message":"Client connected: Y86ZddwXvjuEf9QSAAAC"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Client disconnected: Y86ZddwXvjuEf9QSAAAC (transport close)"}
+{"level":"info","message":"Client connected: tS-DU5qJ1L6nyn8UAAAD"}
+{"level":"info","message":"Client disconnected: tS-DU5qJ1L6nyn8UAAAD (ping timeout)"}
+{"level":"info","message":"Client connected: xW0XVPtElPVEldO1AAAE"}
+{"level":"info","message":"Client disconnected: xW0XVPtElPVEldO1AAAE (transport close)"}
+{"level":"info","message":"Client connected: wczGbeNOEtFVbvM7AAAF"}
+{"level":"info","message":"Client disconnected: wczGbeNOEtFVbvM7AAAF (ping timeout)"}
+{"level":"info","message":"Client connected: 1K6urBz0eIpRl7iGAAAG"}
+{"level":"info","message":"Client disconnected: 1K6urBz0eIpRl7iGAAAG (ping timeout)"}
+{"level":"info","message":"Client connected: KTTknHmMjiYKQQ9oAAAH"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Client disconnected: KTTknHmMjiYKQQ9oAAAH (transport close)"}
+{"level":"info","message":"Client connected: 3bcJ0WTl08a55UuRAAAI"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Client disconnected: 3bcJ0WTl08a55UuRAAAI (transport close)"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}

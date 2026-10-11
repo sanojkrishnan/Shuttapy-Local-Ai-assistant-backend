@@ -1,65 +1,26 @@
+const logger = require("../utils/logger");
+const { OLLAMA_MODEL } = require("../config/config");
+const { shuttapyHealthService } = require("../services/ollamaService");
 
-const sendToOllama = require("../services/ollamaService.js");
-const chatSchema = require("../validation/chatValidation.js");
-const { OLLAMA_URL, OLLAMA_MODEL } = require("../config/config");
+const errorFor = (status) =>
+  status.ollama !== "online"
+    ? "Local AI (Ollama) is not reachable"
+    : `Model "${OLLAMA_MODEL}" is not installed in Ollama`;
 
-async function chatController(req, res) {
-  const { error, value } = chatSchema.validate(req.body);
-
-  if (error) {
-    return res.status(400).json({
-      error: "Invalid chat request",
-    });
-  }
-
+const checkHealth = async (ack) => {
   try {
-    const reply = await sendToOllama(value.messages);
-    return res.json({ reply });
-  } catch (error) {
-    console.error("Shuttapy chat error:", error.message);
+    const status = await shuttapyHealthService.getStatus();
 
-    return res.status(502).json({
-      error: "Unable to get a response from the AI model.",
-    });
-  }
-}
-
-async function healthChecker(req, res) {
-  // Declare the variables before using them.
-  let ollama = "offline";
-  let model = "unknown";
-
-  try {
-    const response = await fetch(`${OLLAMA_URL}/api/tags`, {
-      signal: AbortSignal.timeout(3000),
-    });
-
-    if (response.ok) {
-      ollama = "online";
-
-      const data = await response.json();
-      const models = data.models || [];
-
-      const modelExists = models.some(
-        (item) =>
-          item.name === OLLAMA_MODEL ||
-          item.name.startsWith(`${OLLAMA_MODEL}:`)
-      );
-
-      model = modelExists ? "available" : "missing";
+    if (!status.ready) {
+      logger.warn("Shuttapy health check: not ready", status);
+      return ack({ error: errorFor(status) });
     }
+
+    ack(status);
   } catch (error) {
-    console.error("Ollama health check failed:", error.message);
+    logger.error("Shuttapy health check failed:", error);
+    ack({ error: "Health check failed" });
   }
+};
 
-  const ready = ollama === "online" && model === "available";
-
-  return res.status(ready ? 200 : 503).json({
-    backend: "online",
-    ollama,
-    model,
-    ready,
-  });
-}
-
-module.exports = { chatController, healthChecker };
+module.exports = { checkHealth };

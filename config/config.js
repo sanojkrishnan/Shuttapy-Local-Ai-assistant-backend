@@ -19,11 +19,6 @@ module.exports = {
     MAX_REQUESTS: 100,
     AUTH_MAX_REQUESTS: 5,
   },
-  //jwt
-  JWT_SECRET: {
-    USER_SECRET: process.env.JWT_USER_SECRET,
-    EXPIRE_IN: process.env.JWT_EXPIRES_IN,
-  },
 
   OLLAMA_URL: process.env.OLLAMA_URL,
 

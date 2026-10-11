@@ -1,27 +1,38 @@
-const { OLLAMA_MODEL, OLLAMA_URL } = require("../config/config");
+const { OLLAMA_URL, OLLAMA_MODEL } = require("../config/config");
 
-//this will start the ollama local ai model
-async function sendToOllama(messages) {
-  const response = await fetch(`${OLLAMA_URL}/api/chat`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      model: OLLAMA_MODEL,
-      messages,
-      stream: false,
-    }),
-    signal: AbortSignal.timeout(120000),
-  });
+const shuttapyHealthService = {
+  // never throws, always returns the status object
+  async getStatus() {
+    let ollama = "offline";
+    let model = "unknown";
 
-  if (!response.ok) {
-    throw new Error(`Ollama returned HTTP ${response.status}`);
-  }
+    try {
+      const response = await fetch(`${OLLAMA_URL}/api/tags`, {
+        signal: AbortSignal.timeout(3000),
+      });
 
-  const data = await response.json();
+      if (response.ok) {
+        ollama = "online";
 
-  return data.message?.content ?? "";
-}
+        const data = await response.json();
+        const models = data.models || [];
 
-module.exports = { sendToOllama };
+        const modelExists = models.some(
+          (item) =>
+            item.name === OLLAMA_MODEL ||
+            item.name.startsWith(`${OLLAMA_MODEL}:`),
+        );
+
+        model = modelExists ? "available" : "missing";
+      }
+    } catch {
+      // stays offline
+    }
+
+    const ready = ollama === "online" && model === "available";
+
+    return { backend: "online", ollama, model, ready };
+  },
+};
+
+module.exports = { shuttapyHealthService };

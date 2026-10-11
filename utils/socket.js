@@ -1,7 +1,10 @@
 const { Server } = require("socket.io");
-
 const logger = require("./logger");
 const config = require("../config/config");
+const {
+  registerSystemSocketRoutes,
+  registerShuttapySocketRoutes,
+} = require("../routes/systemSocket");
 
 let io;
 
@@ -16,9 +19,10 @@ const initializeSocket = (server) => {
 
   io.on("connection", (socket) => {
     logger.info(`Client connected: ${socket.id}`);
-
-    socket.on("disconnect", () => {
-      logger.info(`Client disconnected: ${socket.id}`);
+    registerSystemSocketRoutes(socket);
+    registerShuttapySocketRoutes(socket);
+    socket.on("disconnect", (reason) => {
+      logger.info(`Client disconnected: ${socket.id} (${reason})`);
     });
   });
 
