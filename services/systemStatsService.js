@@ -1,5 +1,6 @@
 const si = require("systeminformation");
 const { spawn } = require("child_process");
+const os = require("os");
 
 const round = (n) => (n == null ? null : Math.round(n));
 
@@ -34,11 +35,13 @@ const cached = (fn, ttlMs) => {
 // One long-lived PowerShell samples every 1s, like Task Manager does.
 
 const SAMPLER_SCRIPT = String.raw`
-Get-Counter '\Processor Information(_Total)\% Processor Utility','\GPU Engine(*)\Utilization Percentage' -SampleInterval 1 -Continuous -ErrorAction SilentlyContinue | ForEach-Object {
+Get-Counter '\Processor Information(_Total)\% Processor Utility','\GPU Engine(*)\Utilization Percentage','\Network Interface(*)\Bytes Received/sec','\Network Interface(*)\Bytes Sent/sec' -SampleInterval 1 -Continuous -ErrorAction SilentlyContinue | ForEach-Object {
   $s = $_.CounterSamples;
   $cpu = ($s | Where-Object { $_.Path -like '*processor utility*' } | Select-Object -First 1).CookedValue;
+  $rx = ($s | Where-Object { $_.Path -like '*bytes received/sec' } | Measure-Object CookedValue -Sum).Sum;
+  $tx = ($s | Where-Object { $_.Path -like '*bytes sent/sec' } | Measure-Object CookedValue -Sum).Sum;
   $gpu = $s | Where-Object { $_.Path -like '*gpu engine*' -and $_.CookedValue -gt 0 } | Group-Object { $_.InstanceName -replace '.*(luid_0x[0-9A-Fa-f]+_0x[0-9A-Fa-f]+).*engtype_(.*)','$1|$2' } | ForEach-Object { [pscustomobject]@{ key = $_.Name; value = ($_.Group | Measure-Object CookedValue -Sum).Sum } };
-  [pscustomobject]@{ cpu = $cpu; gpu = @($gpu) } | ConvertTo-Json -Compress -Depth 4
+  [pscustomobject]@{ cpu = $cpu; rx = $rx; tx = $tx; gpu = @($gpu) } | ConvertTo-Json -Compress -Depth 4
 }
 `.replace(/\s*\n\s*/g, " ");
 
@@ -108,21 +111,19 @@ const getDiskLayout = cached(() => si.diskLayout(), 60000);
 
 const systemService = {
   async getResources() {
-    const [load, mem, net, counters, gfx, temp, fs, layout] = await Promise.all(
-      [
-        si.currentLoad(), // used for the core count and as a fallback
-        si.mem(),
-        si.networkStats(),
-        getCounters(),
-        getGraphics(),
-        getTemperature(),
-        getDisks(),
-        getDiskLayout(),
-      ],
-    );
+    const total = os.totalmem();
+    const ramUsed = total - os.freemem();
+
+    const [load, counters, gfx, temp, fs, layout] = await Promise.all([
+      si.currentLoad(), // used for the core count and as a fallback
+      getCounters(),
+      getGraphics(),
+      getTemperature(),
+      getDisks(),
+      getDiskLayout(),
+    ]);
 
     const gpu = gfx?.controllers?.[0];
-    const ramUsed = mem.total - mem.available; // Task Manager "In use"
 
     // whole physical disk(s), not a single partition
     const volumes = (fs ?? []).filter((d) => d.size > 0);
@@ -138,9 +139,9 @@ const systemService = {
         temp: temp?.main ?? null,
       },
       memory: {
-        total: mem.total,
+        total,
         used: ramUsed,
-        usedPercent: round((ramUsed / mem.total) * 100),
+        usedPercent: round((ramUsed / total) * 100),
       },
       disk: {
         total: diskTotal,
@@ -152,13 +153,13 @@ const systemService = {
             name: gpu.model,
             usage: counters ? gpuBusyFrom(counters) : (gpu.utilizationGpu ?? 0),
             vramTotal: gpu.vram, // MB
-            vramUsed: gpu.memoryUsed ?? null, // null = not reported (integrated)
+            vramUsed: gpu.memoryUsed ?? null,
             temp: gpu.temperatureGpu ?? null,
           }
         : null,
       network: {
-        rx: net[0]?.rx_sec ?? 0, // bytes/s
-        tx: net[0]?.tx_sec ?? 0,
+        rx: counters?.rx ?? 0, // bytes/s
+        tx: counters?.tx ?? 0,
       },
     };
   },
