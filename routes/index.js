@@ -8,7 +8,7 @@ const setupRoutes = (app) => {
   const authLimiter = createAuthLimiter();
   const shouldUseAuthLimiter = config.NODE_ENV === "production";
 
-  // app.use("/api/", ...(shouldUseAuthLimiter ? [authLimiter] : []), chatRoute);
+  app.use("/api/chat", ...(shouldUseAuthLimiter ? [authLimiter] : []), chatRoute);
 };
 
 const registerSocketRoutes = (io) => {

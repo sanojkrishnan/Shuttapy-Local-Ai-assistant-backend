@@ -1,12 +1,11 @@
 const Joi = require("joi");
 
-const messageSchema = Joi.object({
-  role: Joi.string().valid("user", "assistant").required(),
-  content: Joi.string().trim().min(1).max(20000).required(),
-});
-
 const chatSchema = Joi.object({
-  messages: Joi.array().items(messageSchema).min(1).max(30).required(),
+  message: Joi.string().trim().min(1).max(8000).required().messages({
+    "string.empty": "Message cannot be empty",
+    "string.max": "Message is too long (max 8000 characters)",
+    "any.required": "Message is required",
+  }),
 });
 
-module.exports = { messageSchema, chatSchema };
+module.exports = { chatSchema };

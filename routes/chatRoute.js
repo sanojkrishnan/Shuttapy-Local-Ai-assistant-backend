@@ -1,10 +1,7 @@
-// const { Router } = require("express");
-// const { chatController, healthChecker } = require("../controller/chatController");
+const express = require("express");
+const router = express.Router();
+const ChatController = require("../controller/ChatController");
 
-// const router = Router();
+router.post("/fetch", ChatController.makeChat);
 
-// router.post("/", chatController);
-
-// router.get("/model/health", healthChecker);
-
-// module.exports = router;
+module.exports = router;

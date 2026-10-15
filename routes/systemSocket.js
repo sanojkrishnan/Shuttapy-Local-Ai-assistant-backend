@@ -1,4 +1,4 @@
-const { checkHealth } = require("../controller/chatController.js");
+const { checkHealth } = require("../controller/OllamaController.js");
 const { getResources } = require("../controller/systemController");
 const { isValidAck } = require("../validation/systemValidation");
 

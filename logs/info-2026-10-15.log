@@ -1,0 +1,3073 @@
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: PiCidpS4egOLeDBgAAAA"}
+{"level":"info","message":"system:get took 4500ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 240ms"}
+{"level":"info","message":"system:get took 46ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 117ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 2274ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 556ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 6447ms"}
+{"level":"info","message":"system:get took 59ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 13149ms"}
+{"level":"info","message":"Client disconnected: PiCidpS4egOLeDBgAAAA (ping timeout)"}
+{"level":"info","message":"Client connected: pord3GlHkA-Cn_nbAAAB"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 4786ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 548ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 2836ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"Client disconnected: pord3GlHkA-Cn_nbAAAB (ping timeout)"}
+{"level":"info","message":"Client connected: FmWsKQg3P6eiRsg1AAAC"}
+{"level":"info","message":"system:get took 2572ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"ip":"::1","level":"error","message":"Error Unexpected token '\"', \"\"ho\"\" is not valid JSON","method":"POST","stack":"SyntaxError: Unexpected token '\"', \"\"ho\"\" is not valid JSON\n    at JSON.parse (<anonymous>)\n    at createStrictSyntaxError (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\body-parser\\lib\\types\\json.js:137:10)\n    at parse (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\body-parser\\lib\\types\\json.js:86:15)\n    at C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\body-parser\\lib\\read.js:162:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:227:14)\n    at invokeCallback (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:509:28)\n    at endReadableNT (node:internal/streams/readable:1729:12)","url":"/chat","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1886ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1510ms"}
+{"level":"info","message":"system:get took 202ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1386ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 77ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1589ms"}
+{"level":"info","message":"system:get took 158ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 171ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1142ms"}
+{"level":"info","message":"system:get took 206ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1603ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 72ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 2475ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 18ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1513ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 71ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 103ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 90ms"}
+{"level":"info","message":"system:get took 1287ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 80ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1468ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1221ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2913ms"}
+{"level":"info","message":"system:get took 424ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 58ms"}
+{"level":"info","message":"system:get took 1856ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 65ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 86ms"}
+{"level":"info","message":"system:get took 217ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2011ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 56ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3432ms"}
+{"level":"info","message":"system:get took 554ms"}
+{"level":"info","message":"system:get took 575ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3402ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2137ms"}
+{"level":"info","message":"Client disconnected: FmWsKQg3P6eiRsg1AAAC (ping timeout)"}
+{"level":"info","message":"Client connected: FdR9ckqeIl1s1roeAAAD"}
+{"level":"info","message":"Client disconnected: FdR9ckqeIl1s1roeAAAD (transport close)"}
+{"level":"info","message":"Client connected: NgKlJX8T2PBkcWhuAAAE"}
+{"level":"info","message":"system:get took 3675ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 18ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1721ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 47ms"}
+{"level":"info","message":"system:get took 1722ms"}
+{"level":"info","message":"system:get took 237ms"}
+{"level":"info","message":"system:get took 60ms"}
+{"level":"info","message":"Client disconnected: NgKlJX8T2PBkcWhuAAAE (ping timeout)"}
+{"level":"info","message":"Client connected: mL_FX_rqaS548NWoAAAF"}
+{"level":"info","message":"system:get took 2223ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1757ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 4057ms"}
+{"level":"info","message":"system:get took 167ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 46ms"}
+{"level":"info","message":"system:get took 1115ms"}
+{"level":"info","message":"system:get took 3249ms"}
+{"level":"info","message":"system:get took 2116ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 62ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 57ms"}
+{"level":"info","message":"system:get took 1438ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 53ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1800ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 101ms"}
+{"level":"info","message":"system:get took 71ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 118ms"}
+{"level":"info","message":"system:get took 1250ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 42ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1475ms"}
+{"level":"info","message":"system:get took 139ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 56ms"}
+{"level":"info","message":"system:get took 50ms"}
+{"level":"info","message":"system:get took 678ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client connected: --58_l6EManvBZIxAAAG"}
+{"level":"info","message":"system:get took 69ms"}
+{"level":"info","message":"system:get took 1386ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 45ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1842ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: mL_FX_rqaS548NWoAAAF (transport close)"}
+{"level":"info","message":"system:get took 314ms"}
+{"level":"info","message":"system:get took 68ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 15ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1964ms"}
+{"level":"info","message":"Client disconnected: --58_l6EManvBZIxAAAG (ping timeout)"}
+{"level":"info","message":"Client connected: YU93qbOF7vKlUS4DAAAH"}
+{"level":"info","message":"system:get took 3585ms"}
+{"level":"info","message":"Client disconnected: YU93qbOF7vKlUS4DAAAH (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: wHeKoAX0FLx_IzMiAAAA"}
+{"level":"info","message":"system:get took 23ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 8ms"}
+{"level":"info","message":"system:get took 23ms"}
+{"level":"info","message":"Incoming request: POST /chat from ::1"}
+{"ip":"::1","level":"warn","message":"Route /chat not found","method":"POST","url":"/chat"}
+{"level":"info","message":"Response completed POST /chat - 404"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 60ms"}
+{"level":"info","message":"system:get took 1262ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 81ms"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: 3taLGbSSuLxNmjaDAAAA"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /chat from ::1"}
+{"ip":"::1","level":"warn","message":"Route /chat not found","method":"POST","url":"/chat"}
+{"level":"info","message":"Response completed POST /chat - 404"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1416ms"}
+{"level":"info","message":"Client disconnected: 3taLGbSSuLxNmjaDAAAA (ping timeout)"}
+{"level":"info","message":"Client connected: tp1vRUHW1ptuUmd_AAAB"}
+{"level":"info","message":"system:get took 2094ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: tp1vRUHW1ptuUmd_AAAB (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Incoming request: POST /chat/fetch from ::1"}
+{"ip":"::1","level":"warn","message":"Route /chat/fetch not found","method":"POST","url":"/chat/fetch"}
+{"level":"info","message":"Response completed POST /chat/fetch - 404"}
+{"level":"info","message":"Client connected: VnCj2YJ9eAS1HWLUAAAA"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1782ms"}
+{"level":"info","message":"Client disconnected: VnCj2YJ9eAS1HWLUAAAA (ping timeout)"}
+{"level":"info","message":"Client connected: CSHreZD_TY-wI7XLAAAB"}
+{"level":"info","message":"Client disconnected: CSHreZD_TY-wI7XLAAAB (transport close)"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"ip":"::1","level":"warn","message":"Route /api/chat/fetch not found","method":"POST","url":"/api/chat/fetch"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 404"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T08:43:47.891Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"Client connected: AD5NA3UxqlNHoa2TAAAA"}
+{"level":"info","message":"system:get took 2220ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: AD5NA3UxqlNHoa2TAAAA (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: 2yLpideuxrOgurKqAAAA"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 24ms"}
+{"level":"info","message":"Client disconnected: 2yLpideuxrOgurKqAAAA (transport error)"}
+{"level":"info","message":"Client connected: ZMzhw3-EbRQln0TdAAAB"}
+{"level":"info","message":"system:get took 1713ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 49ms"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: Mezn_R_9LpojOU3yAAAA"}
+{"level":"info","message":"Client disconnected: Mezn_R_9LpojOU3yAAAA (transport close)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: TQLPdsEy7r7pRA4DAAAA"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Client disconnected: TQLPdsEy7r7pRA4DAAAA (transport close)"}
+{"level":"info","message":"Client connected: EOnaN1jtHfNQKiJEAAAB"}
+{"level":"info","message":"system:get took 1704ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2317ms"}
+{"level":"info","message":"Client disconnected: EOnaN1jtHfNQKiJEAAAB (transport close)"}
+{"level":"info","message":"Client connected: -7cdL5oqhpVItS1QAAAC"}
+{"level":"info","message":"system:get took 339ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T08:48:26.234Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 7ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1694ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1638ms"}
+{"level":"info","message":"system:get took 535ms"}
+{"level":"info","message":"system:get took 49ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1311ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 47ms"}
+{"level":"info","message":"Client disconnected: -7cdL5oqhpVItS1QAAAC (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: 9pqiQBef-dIPVZcpAAAA"}
+{"level":"info","message":"system:get took 30ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 41ms"}
+{"level":"info","message":"system:get took 1531ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 92ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T08:52:40.001Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1054ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 43ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1351ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 239ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2711ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1384ms"}
+{"level":"info","message":"system:get took 110ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1283ms"}
+{"level":"info","message":"system:get took 11ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1987ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 43ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1083ms"}
+{"level":"info","message":"system:get took 126ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: 9pqiQBef-dIPVZcpAAAA (transport close)"}
+{"level":"info","message":"Client connected: f48gvJq2QG6MJZFNAAAB"}
+{"level":"info","message":"system:get took 2198ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 275ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T08:55:19.377Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2109ms"}
+{"level":"info","message":"Client disconnected: f48gvJq2QG6MJZFNAAAB (transport close)"}
+{"level":"info","message":"Client connected: GLRdQnNLGn8mN6wVAAAC"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 0ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T08:55:47.056Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 317ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 51ms"}
+{"level":"info","message":"system:get took 1304ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 52ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1298ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 105ms"}
+{"level":"info","message":"system:get took 47ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1206ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 44ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1243ms"}
+{"level":"info","message":"system:get took 441ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2065ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1472ms"}
+{"level":"info","message":"Client disconnected: GLRdQnNLGn8mN6wVAAAC (ping timeout)"}
+{"level":"info","message":"Client connected: YRrg1O8CsSsqAS1cAAAD"}
+{"level":"info","message":"system:get took 3184ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1807ms"}
+{"level":"info","message":"system:get took 152ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 157ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2159ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:01:17.942Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 133ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1564ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1892ms"}
+{"level":"info","message":"system:get took 26ms"}
+{"level":"info","message":"system:get took 130ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1948ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 95ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 67ms"}
+{"level":"info","message":"system:get took 1442ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 108ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1603ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 139ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 214ms"}
+{"level":"info","message":"Client disconnected: YRrg1O8CsSsqAS1cAAAD (transport close)"}
+{"level":"info","message":"Client connected: MKIv0TSlz1gwjtByAAAE"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 11ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1307ms"}
+{"level":"info","message":"system:get took 120ms"}
+{"level":"info","message":"Client disconnected: MKIv0TSlz1gwjtByAAAE (transport close)"}
+{"level":"info","message":"Client connected: 2f53XhE6uec0kX_pAAAF"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1958ms"}
+{"level":"info","message":"system:get took 55ms"}
+{"level":"info","message":"Client disconnected: 2f53XhE6uec0kX_pAAAF (transport close)"}
+{"level":"info","message":"Client connected: gchxWsTr3oUTtN9yAAAG"}
+{"level":"info","message":"system:get took 65ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:03:35.513Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1813ms"}
+{"level":"info","message":"Client disconnected: gchxWsTr3oUTtN9yAAAG (transport close)"}
+{"level":"info","message":"Client connected: 8lfVRJl3xrpoxfWVAAAH"}
+{"level":"info","message":"system:get took 95ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1727ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:04:00.248Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 56ms"}
+{"level":"info","message":"system:get took 83ms"}
+{"level":"info","message":"system:get took 7ms"}
+{"level":"info","message":"system:get took 161ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1459ms"}
+{"level":"info","message":"system:get took 306ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2171ms"}
+{"level":"info","message":"Client disconnected: 8lfVRJl3xrpoxfWVAAAH (transport close)"}
+{"level":"info","message":"Client connected: -feh7kk1eI4PEijxAAAI"}
+{"level":"info","message":"system:get took 194ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:04:40.470Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1430ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 100ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1261ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 86ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 45ms"}
+{"level":"info","message":"system:get took 142ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:05:18.033Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1540ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 42ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1503ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2500ms"}
+{"level":"info","message":"Client disconnected: -feh7kk1eI4PEijxAAAI (transport close)"}
+{"level":"info","message":"Client connected: 24b-BOncjpSlrfJnAAAJ"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:05:58.707Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 70ms"}
+{"level":"info","message":"system:get took 1596ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 311ms"}
+{"level":"info","message":"system:get took 1640ms"}
+{"level":"info","message":"Client disconnected: 24b-BOncjpSlrfJnAAAJ (transport close)"}
+{"level":"info","message":"Client connected: dh3K04VSo3c7RGbWAAAK"}
+{"level":"info","message":"system:get took 83ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:06:32.542Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 57ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1929ms"}
+{"level":"info","message":"Client disconnected: dh3K04VSo3c7RGbWAAAK (ping timeout)"}
+{"level":"info","message":"Client connected: 5N9zgV4sF3NCBhiDAAAL"}
+{"level":"info","message":"system:get took 2367ms"}
+{"level":"info","message":"system:get took 1462ms"}
+{"level":"info","message":"system:get took 5ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1683ms"}
+{"level":"info","message":"Client disconnected: 5N9zgV4sF3NCBhiDAAAL (ping timeout)"}
+{"level":"info","message":"Client connected: lHSqc2LcV37YtvDbAAAM"}
+{"level":"info","message":"system:get took 2577ms"}
+{"level":"info","message":"Client disconnected: lHSqc2LcV37YtvDbAAAM (transport close)"}
+{"level":"info","message":"Client connected: Dhpj099ZYmnkqehWAAAN"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1285ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:19:51.826Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1506ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 45ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 40ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":17,"timestamp":"2026-10-15T09:20:07.666Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1348ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:20:17.332Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 52ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1268ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 51ms"}
+{"level":"info","message":"system:get took 55ms"}
+{"level":"info","message":"system:get took 187ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1407ms"}
+{"level":"info","message":"system:get took 335ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":17,"timestamp":"2026-10-15T09:20:45.038Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 65ms"}
+{"level":"info","message":"system:get took 1805ms"}
+{"level":"info","message":"Client disconnected: Dhpj099ZYmnkqehWAAAN (ping timeout)"}
+{"level":"info","message":"Client connected: FBdyr-88KGCCYwOpAAAO"}
+{"level":"info","message":"system:get took 2992ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1721ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: FBdyr-88KGCCYwOpAAAO (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: eOEeGBqGWg62Rmu8AAAA"}
+{"level":"info","message":"system:get took 4194ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 163ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:45:22.200Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1108ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":16,"timestamp":"2026-10-15T09:45:37.645Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1029ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 145ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":15,"timestamp":"2026-10-15T09:45:47.470Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 989ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1300ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 67ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 849ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1135ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2105ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1427ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 51ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 53ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1504ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 44ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 133ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1268ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 72ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: eOEeGBqGWg62Rmu8AAAA (ping timeout)"}
+{"level":"info","message":"Client connected: HVcRc3kU1aSQeUS1AAAB"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 63ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1231ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 54ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 40ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 963ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 6ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 51ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 87ms"}
+{"level":"info","message":"system:get took 2645ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: YzA_ReF_WuAm41RNAAAA"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T09:59:20.786Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 56ms"}
+{"level":"info","message":"system:get took 1384ms"}
+{"level":"info","message":"Client disconnected: YzA_ReF_WuAm41RNAAAA (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: Z0zlPsJZw9CAizKeAAAA"}
+{"level":"info","message":"system:get took 2724ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 19ms"}
+{"level":"error","message":"Chat error: Model error (400): {\"error\":\"model is required\"}","stack":"Error: Model error (400): {\"error\":\"model is required\"}\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:38:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20"}
+{"ip":"::1","level":"error","message":"Error Model error (400): {\"error\":\"model is required\"}","method":"POST","stack":"Error: Model error (400): {\"error\":\"model is required\"}\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:38:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20","url":"/api/chat/fetch","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 500"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1426ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"error","message":"Chat error: Model error (400): {\"error\":\"model is required\"}","stack":"Error: Model error (400): {\"error\":\"model is required\"}\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:38:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20"}
+{"ip":"::1","level":"error","message":"Error Model error (400): {\"error\":\"model is required\"}","method":"POST","stack":"Error: Model error (400): {\"error\":\"model is required\"}\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:38:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20","url":"/api/chat/fetch","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 500"}
+{"level":"info","message":"system:get took 74ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: O_3Sh_CkNo6MwMiIAAAA"}
+{"level":"info","message":"system:get took 12ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 44ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 64ms"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: UlmDT43KsQ2sIsWXAAAA"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 22ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 63ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T10:11:48.360Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 42ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":22,"timestamp":"2026-10-15T10:12:12.307Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 997ms"}
+{"level":"info","message":"system:get took 46ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Client disconnected: UlmDT43KsQ2sIsWXAAAA (ping timeout)"}
+{"level":"info","message":"Client connected: K2rcm07TzH_Ugm2YAAAB"}
+{"level":"info","message":"system:get took 2013ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":17,"timestamp":"2026-10-15T10:14:37.273Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1673ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: K2rcm07TzH_Ugm2YAAAB (ping timeout)"}
+{"level":"info","message":"Client connected: RcEH0QO7GmmSmHBOAAAC"}
+{"level":"info","message":"system:get took 312ms"}
+{"level":"info","message":"system:get took 1166ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":27,"timestamp":"2026-10-15T10:16:51.824Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 46ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 335ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: RcEH0QO7GmmSmHBOAAAC (transport close)"}
+{"level":"info","message":"Client connected: QXvPmGeuwjJqUX3GAAAD"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 54ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"Client disconnected: QXvPmGeuwjJqUX3GAAAD (ping timeout)"}
+{"level":"info","message":"Client connected: epA5XsgGFgLPRDT4AAAE"}
+{"level":"info","message":"system:get took 2544ms"}
+{"level":"info","message":"Client disconnected: epA5XsgGFgLPRDT4AAAE (transport close)"}
+{"level":"info","message":"Client connected: uscMy5h6gPjegcsDAAAF"}
+{"level":"info","message":"system:get took 2326ms"}
+{"level":"info","message":"Client disconnected: uscMy5h6gPjegcsDAAAF (transport close)"}
+{"level":"info","message":"Client connected: lJ2kkqx11IJaKiTNAAAG"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 19ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 63ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 78ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1034ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 53ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1493ms"}
+{"level":"info","message":"system:get took 238ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 8ms"}
+{"level":"info","message":"system:get took 84ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 6ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 212ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":11,"timestamp":"2026-10-15T10:45:56.051Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 6ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":15,"timestamp":"2026-10-15T10:46:23.277Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: lJ2kkqx11IJaKiTNAAAG (transport close)"}
+{"level":"info","message":"Client connected: KcPoje3m9Uns8E09AAAH"}
+{"level":"info","message":"system:get took 2194ms"}
+{"level":"info","message":"system:get took 1485ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1605ms"}
+{"level":"info","message":"system:get took 1178ms"}
+{"level":"info","message":"system:get took 1921ms"}
+{"level":"info","message":"Client disconnected: KcPoje3m9Uns8E09AAAH (ping timeout)"}
+{"level":"info","message":"Client connected: ExFIx7Tk76JLsUDUAAAI"}
+{"level":"info","message":"system:get took 6331ms"}
+{"level":"info","message":"Client disconnected: ExFIx7Tk76JLsUDUAAAI (ping timeout)"}
+{"level":"info","message":"Client connected: oDfWPjIFuoxieiP1AAAJ"}
+{"level":"info","message":"system:get took 1947ms"}
+{"level":"info","message":"system:get took 997ms"}
+{"level":"info","message":"system:get took 1604ms"}
+{"level":"info","message":"system:get took 1579ms"}
+{"level":"info","message":"system:get took 1925ms"}
+{"level":"info","message":"system:get took 1599ms"}
+{"level":"info","message":"system:get took 1771ms"}
+{"level":"info","message":"system:get took 1451ms"}
+{"level":"info","message":"system:get took 4777ms"}
+{"level":"info","message":"Client disconnected: oDfWPjIFuoxieiP1AAAJ (ping timeout)"}
+{"level":"info","message":"Client connected: q43frT12kVWTPwVdAAAK"}
+{"level":"info","message":"system:get took 1928ms"}
+{"level":"info","message":"system:get took 1408ms"}
+{"level":"info","message":"system:get took 2145ms"}
+{"level":"info","message":"system:get took 1426ms"}
+{"level":"info","message":"system:get took 2560ms"}
+{"level":"info","message":"system:get took 1596ms"}
+{"level":"info","message":"Client disconnected: q43frT12kVWTPwVdAAAK (transport close)"}
+{"level":"info","message":"Client connected: HUW161q4JFNwIvaYAAAL"}
+{"level":"info","message":"system:get took 40236ms"}
+{"level":"info","message":"Client disconnected: HUW161q4JFNwIvaYAAAL (transport error)"}
+{"level":"info","message":"Client connected: 6KU8BzjOR8s_NVtnAAAM"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 62ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3440ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 7443ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2734ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 7568ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T14:47:40.234Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 47ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T14:47:46.561Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 72ms"}
+{"level":"info","message":"system:get took 249ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 4062ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 417ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Client disconnected: 6KU8BzjOR8s_NVtnAAAM (ping timeout)"}
+{"level":"info","message":"Client connected: sGVnlPJflw3vx1imAAAN"}
+{"level":"info","message":"system:get took 4493ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 30ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":23,"timestamp":"2026-10-15T14:49:39.274Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 13ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 14ms"}
+{"level":"info","message":"system:get took 114ms"}
+{"level":"info","message":"system:get took 3506ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 96ms"}
+{"level":"info","message":"system:get took 65ms"}
+{"level":"info","message":"system:get took 473ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 66ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 89ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2226ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 72ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":39,"timestamp":"2026-10-15T14:50:43.857Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2760ms"}
+{"level":"info","message":"system:get took 227ms"}
+{"level":"info","message":"system:get took 16ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 165ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 114ms"}
+{"level":"info","message":"system:get took 2254ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 59ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1855ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 96ms"}
+{"level":"info","message":"system:get took 58ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 1756ms"}
+{"level":"info","message":"system:get took 521ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":10,"timestamp":"2026-10-15T14:51:42.527Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 72ms"}
+{"level":"info","message":"system:get took 3316ms"}
+{"level":"info","message":"system:get took 1068ms"}
+{"level":"info","message":"system:get took 92ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 891ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 59ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 30ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 4756ms"}
+{"level":"info","message":"Client disconnected: sGVnlPJflw3vx1imAAAN (ping timeout)"}
+{"level":"info","message":"Client connected: M2iZggXYW7eV9K8rAAAO"}
+{"level":"info","message":"system:get took 2985ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3515ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 8957ms"}
+{"level":"info","message":"system:get took 161ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 16ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 97ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Client disconnected: M2iZggXYW7eV9K8rAAAO (ping timeout)"}
+{"level":"info","message":"Client connected: lc8SEucApDNKm020AAAP"}
+{"level":"info","message":"system:get took 13500ms"}
+{"level":"info","message":"system:get took 7ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 176ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":30,"timestamp":"2026-10-15T14:55:53.218Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3612ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 50ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: wHEDpqMiGs1FnIlEAAAA"}
+{"level":"info","message":"system:get took 750ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 29ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 264ms"}
+{"level":"info","message":"system:get took 4947ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1125ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 336ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 50ms"}
+{"level":"info","message":"system:get took 23ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2864ms"}
+{"level":"info","message":"Client disconnected: wHEDpqMiGs1FnIlEAAAA (ping timeout)"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T15:09:06.440Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"Client connected: qkBz3m6iSGUDyqktAAAB"}
+{"level":"info","message":"system:get took 5756ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 88ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T15:09:24.728Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 407ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 71ms"}
+{"level":"info","message":"system:get took 2070ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 91ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 14ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2861ms"}
+{"level":"info","message":"system:get took 297ms"}
+{"level":"info","message":"system:get took 28ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 89ms"}
+{"level":"info","message":"system:get took 3449ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 110ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3118ms"}
+{"level":"info","message":"system:get took 554ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 91ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2346ms"}
+{"level":"info","message":"system:get took 116ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3716ms"}
+{"level":"info","message":"system:get took 621ms"}
+{"level":"info","message":"system:get took 54ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 120ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 218ms"}
+{"level":"info","message":"Client disconnected: qkBz3m6iSGUDyqktAAAB (transport close)"}
+{"level":"warn","message":"MongoDB disconnected"}
+{"level":"info","message":"MongoDB reconnected"}
+{"level":"warn","message":"MongoDB disconnected"}
+{"level":"info","message":"MongoDB reconnected"}
+{"level":"info","message":"Client connected: xLs6nQohakV7X1PkAAAC"}
+{"level":"info","message":"system:get took 2437ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1440ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1139ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 42ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 894ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 24ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T15:44:29.114Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1603ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 73ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 157ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1435ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1624ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 8ms"}
+{"level":"info","message":"system:get took 61ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 123ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 6ms"}
+{"level":"info","message":"system:get took 1335ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 66ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 824ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 46ms"}
+{"level":"info","message":"system:get took 55ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2912ms"}
+{"level":"info","message":"system:get took 533ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 52ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 4335ms"}
+{"level":"info","message":"system:get took 783ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 725ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2318ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 12ms"}
+{"level":"info","message":"system:get took 71ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2393ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 29ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"error","message":"Chat error: Cannot reach the local AI model. Is Ollama running?","stack":"Error: Cannot reach the local AI model. Is Ollama running?\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:32:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20"}
+{"ip":"::1","level":"error","message":"Error Cannot reach the local AI model. Is Ollama running?","method":"POST","stack":"Error: Cannot reach the local AI model. Is Ollama running?\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:32:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20","url":"/api/chat/fetch","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 500"}
+{"level":"info","message":"system:get took 82ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 116ms"}
+{"level":"info","message":"system:get took 1572ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 4056ms"}
+{"level":"info","message":"system:get took 110ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2281ms"}
+{"level":"info","message":"system:get took 6ms"}
+{"level":"info","message":"system:get took 105ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 76ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 199ms"}
+{"level":"info","message":"system:get took 417ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 5302ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1635ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2807ms"}
+{"level":"info","message":"system:get took 442ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"error","message":"Chat error: Cannot reach the local AI model. Is Ollama running?","stack":"Error: Cannot reach the local AI model. Is Ollama running?\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:32:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20"}
+{"ip":"::1","level":"error","message":"Error Cannot reach the local AI model. Is Ollama running?","method":"POST","stack":"Error: Cannot reach the local AI model. Is Ollama running?\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:32:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20","url":"/api/chat/fetch","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 500"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 39ms"}
+{"level":"info","message":"system:get took 1919ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 69ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 52ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1374ms"}
+{"level":"info","message":"system:get took 350ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1711ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 91ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1777ms"}
+{"level":"info","message":"system:get took 119ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2214ms"}
+{"level":"info","message":"system:get took 356ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1732ms"}
+{"level":"info","message":"system:get took 159ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1351ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 49ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1142ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 51ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 49ms"}
+{"level":"info","message":"system:get took 1210ms"}
+{"level":"info","message":"system:get took 258ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2442ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 199ms"}
+{"level":"info","message":"system:get took 45ms"}
+{"level":"info","message":"system:get took 2348ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T15:53:43.368Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 53ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 79ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 7915ms"}
+{"level":"info","message":"system:get took 5ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1429ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3153ms"}
+{"level":"info","message":"system:get took 184ms"}
+{"level":"info","message":"system:get took 126ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 14870ms"}
+{"level":"info","message":"system:get took 12027ms"}
+{"level":"info","message":"system:get took 224ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 202ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 103ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 220ms"}
+{"level":"info","message":"system:get took 3105ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1156ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"error","message":"Chat error: Cannot reach the local AI model. Is Ollama running?","stack":"Error: Cannot reach the local AI model. Is Ollama running?\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:32:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20"}
+{"ip":"::1","level":"error","message":"Error Cannot reach the local AI model. Is Ollama running?","method":"POST","stack":"Error: Cannot reach the local AI model. Is Ollama running?\n    at ChatService.generateReply (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:32:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async ChatService.makeChat (C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\services\\ChatService.js:10:21)\n    at async C:\\Users\\sanoj\\OneDrive\\Desktop\\Work\\Ai Chat model\\Shuttapy Ai backend\\controller\\ChatController.js:9:20","url":"/api/chat/fetch","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 500"}
+{"level":"info","message":"system:get took 147ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 2575ms"}
+{"level":"info","message":"system:get took 3112ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T15:56:40.560Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 10ms"}
+{"level":"info","message":"system:get took 1995ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1970ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 381ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":30,"timestamp":"2026-10-15T15:57:21.594Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":36,"timestamp":"2026-10-15T15:57:28.798Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 867ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1479ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 127ms"}
+{"level":"info","message":"system:get took 6ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1053ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 44ms"}
+{"level":"info","message":"system:get took 84ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":4,"timestamp":"2026-10-15T15:57:56.999Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1319ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 77ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: xLs6nQohakV7X1PkAAAC (transport close)"}
+{"level":"info","message":"Client connected: hfpyD2H-tXymg8MBAAAD"}
+{"level":"info","message":"system:get took 5442ms"}
+{"level":"info","message":"Client disconnected: hfpyD2H-tXymg8MBAAAD (transport close)"}
+{"level":"info","message":"Client connected: CDRcGNNNuqUCCQrCAAAE"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1321ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 18ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1198ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1191ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 549ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 54ms"}
+{"level":"info","message":"system:get took 1140ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T16:23:25.997Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2250ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 39ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1719ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 153ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":14,"timestamp":"2026-10-15T16:24:13.798Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1871ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 66ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1682ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":13,"timestamp":"2026-10-15T16:24:45.084Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1962ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 50ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 6ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":21,"timestamp":"2026-10-15T16:25:03.633Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2343ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 126ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1519ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 803ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1507ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 8ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 975ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":38,"timestamp":"2026-10-15T16:25:52.413Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 51ms"}
+{"level":"info","message":"system:get took 58ms"}
+{"level":"info","message":"system:get took 1601ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 52ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 140ms"}
+{"level":"info","message":"system:get took 1675ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 47ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1467ms"}
+{"level":"info","message":"Client disconnected: CDRcGNNNuqUCCQrCAAAE (ping timeout)"}
+{"level":"info","message":"Client connected: jwr0Yh0IEPn9Fuw1AAAF"}
+{"level":"info","message":"system:get took 2012ms"}
+{"level":"info","message":"Client disconnected: jwr0Yh0IEPn9Fuw1AAAF (ping timeout)"}
+{"level":"info","message":"Client connected: KgwvaDM72jLJj8bdAAAG"}
+{"level":"info","message":"system:get took 1536ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1643ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: KgwvaDM72jLJj8bdAAAG (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: JFT7_sKZ8Hc9CZ-6AAAA"}
+{"level":"info","message":"system:get took 2589ms"}
+{"level":"info","message":"system:get took 5ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1779ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 68ms"}
+{"level":"info","message":"system:get took 2483ms"}
+{"level":"info","message":"system:get took 233ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 54ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 880ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 68ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1453ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T16:44:36.289Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"Client disconnected: JFT7_sKZ8Hc9CZ-6AAAA (ping timeout)"}
+{"level":"info","message":"Client connected: GpmqFm7m3ZQ43HiNAAAB"}
+{"level":"info","message":"system:get took 2461ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1058ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":18,"timestamp":"2026-10-15T16:45:56.869Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1713ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 58ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 49ms"}
+{"level":"info","message":"system:get took 1572ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 51ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1427ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: B_rHw7_3PUWWbEyxAAAA"}
+{"level":"info","message":"system:get took 2104ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T16:50:33.393Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2770ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: B_rHw7_3PUWWbEyxAAAA (ping timeout)"}
+{"level":"info","message":"Client connected: ZWz3Gfa626U_CWSjAAAB"}
+{"level":"info","message":"system:get took 3080ms"}
+{"backend":"online","level":"warn","message":"Shuttapy health check: not ready","model":"unknown","ollama":"offline","ready":false}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T16:55:09.984Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1303ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":21,"timestamp":"2026-10-15T16:55:30.821Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1634ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 61ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 39ms"}
+{"level":"info","message":"system:get took 1354ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 61ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1557ms"}
+{"level":"info","message":"system:get took 185ms"}
+{"level":"info","message":"system:get took 196ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1364ms"}
+{"level":"info","message":"Client disconnected: ZWz3Gfa626U_CWSjAAAB (ping timeout)"}
+{"level":"info","message":"Client connected: mgAUiQ66zu2l6_GPAAAC"}
+{"level":"info","message":"system:get took 2842ms"}
+{"level":"info","message":"Client disconnected: mgAUiQ66zu2l6_GPAAAC (transport close)"}
+{"level":"info","message":"Client connected: GL_VFlT7SjXBuXHmAAAD"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1792ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2028ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T16:59:00.384Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 84ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1440ms"}
+{"level":"info","message":"system:get took 35ms"}
+{"level":"info","message":"system:get took 131ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1227ms"}
+{"level":"info","message":"system:get took 157ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 7ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: GL_VFlT7SjXBuXHmAAAD (transport close)"}
+{"level":"info","message":"Client connected: fNrKRb4-N2lXvFymAAAE"}
+{"level":"info","message":"system:get took 59ms"}
+{"level":"info","message":"system:get took 1406ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T16:59:55.918Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 69ms"}
+{"level":"info","message":"system:get took 1369ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 46ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 67ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1162ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1219ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1238ms"}
+{"level":"info","message":"system:get took 178ms"}
+{"level":"info","message":"system:get took 41ms"}
+{"level":"info","message":"system:get took 8ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1358ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2181ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 65ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1497ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 117ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1676ms"}
+{"level":"info","message":"system:get took 81ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 49ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 69ms"}
+{"level":"info","message":"system:get took 1101ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 57ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1469ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 55ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 65ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1202ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 56ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: fNrKRb4-N2lXvFymAAAE (ping timeout)"}
+{"level":"info","message":"Client connected: wHBknALq3bTSEdfZAAAF"}
+{"level":"info","message":"Client disconnected: wHBknALq3bTSEdfZAAAF (transport close)"}
+{"level":"info","message":"Client connected: a1wkmyqqIld_TgnqAAAG"}
+{"level":"info","message":"system:get took 2390ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 37ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:04:22.915Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 35ms"}
+{"level":"info","message":"system:get took 1283ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1856ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1279ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2382ms"}
+{"level":"info","message":"system:get took 932ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 61ms"}
+{"level":"info","message":"system:get took 1360ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 42ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1605ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 44ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1428ms"}
+{"level":"info","message":"system:get took 718ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 20ms"}
+{"level":"info","message":"Client disconnected: a1wkmyqqIld_TgnqAAAG (transport close)"}
+{"level":"info","message":"Client connected: BAi2I0AMJ3P64qHNAAAH"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 457ms"}
+{"level":"info","message":"system:get took 73ms"}
+{"level":"info","message":"system:get took 145ms"}
+{"level":"info","message":"system:get took 1685ms"}
+{"level":"info","message":"system:get took 194ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2101ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 50ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 50ms"}
+{"level":"info","message":"system:get took 1366ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 58ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1382ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: BAi2I0AMJ3P64qHNAAAH (transport close)"}
+{"level":"info","message":"Client connected: sZmKD5WT5-seWmDuAAAI"}
+{"level":"info","message":"system:get took 142ms"}
+{"level":"info","message":"system:get took 178ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1266ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 57ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:08:00.645Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 39ms"}
+{"level":"info","message":"system:get took 1296ms"}
+{"level":"info","message":"Client disconnected: sZmKD5WT5-seWmDuAAAI (transport close)"}
+{"level":"info","message":"Client connected: -_6YItbH5MlpVIydAAAJ"}
+{"level":"info","message":"system:get took 158ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:08:27.079Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1202ms"}
+{"level":"info","message":"system:get took 1381ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 59ms"}
+{"level":"info","message":"system:get took 1518ms"}
+{"level":"info","message":"system:get took 2992ms"}
+{"level":"info","message":"Client disconnected: -_6YItbH5MlpVIydAAAJ (transport close)"}
+{"level":"info","message":"Client connected: bzwDR3t7I0HoZOlgAAAK"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:09:14.745Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 7ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1434ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1430ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 36ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1548ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 1638ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 221ms"}
+{"level":"info","message":"system:get took 43ms"}
+{"level":"info","message":"system:get took 1368ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 47ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1227ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 53ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1696ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 39ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1460ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 50ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3624ms"}
+{"level":"info","message":"system:get took 1172ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1569ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1602ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 44ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 49ms"}
+{"level":"info","message":"system:get took 1242ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 48ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1150ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 341ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1255ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 47ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1225ms"}
+{"level":"info","message":"system:get took 270ms"}
+{"level":"info","message":"Client disconnected: bzwDR3t7I0HoZOlgAAAK (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: qV7ZCnD8hftB6s5JAAAA"}
+{"level":"info","message":"system:get took 19ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Client disconnected: qV7ZCnD8hftB6s5JAAAA (transport close)"}
+{"level":"info","message":"Client connected: HgB2FjWZAJnWkfVyAAAB"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 58ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1261ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 106ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1500ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 302ms"}
+{"level":"info","message":"system:get took 188ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1508ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:15:43.801Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2574ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:15:57.087Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1495ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1727ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:16:53.106Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 110ms"}
+{"level":"info","message":"system:get took 1503ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:17:12.396Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1582ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 45ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1378ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1406ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 46ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1534ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 120ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1456ms"}
+{"level":"info","message":"Client disconnected: HgB2FjWZAJnWkfVyAAAB (ping timeout)"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Socket.IO initialized successfully"}
+{"level":"info","message":"Server initialized successfully"}
+{"level":"info","message":"Server running in development mode on port 3000"}
+{"level":"info","message":"Client connected: zLNuYxJ7ZB7rYWoGAAAA"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 17ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1924ms"}
+{"level":"info","message":"system:get took 9ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 60ms"}
+{"level":"info","message":"system:get took 1643ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 216ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 37ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1042ms"}
+{"level":"info","message":"system:get took 144ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2508ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 106ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":2,"timestamp":"2026-10-15T17:28:22.853Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1008ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":30,"timestamp":"2026-10-15T17:28:47.906Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1478ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 79ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 4ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":44,"timestamp":"2026-10-15T17:29:17.303Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 3ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 118ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":10,"timestamp":"2026-10-15T17:29:34.289Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"Incoming request: POST /api/chat/fetch from ::1"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 0ms"}
+{"level":"info","message":"system:get took 2ms"}
+{"action":"CHAT_MESSAGE","level":"info","message":"Controller Action: CHAT_MESSAGE","messageLength":11,"timestamp":"2026-10-15T17:30:09.119Z"}
+{"level":"info","message":"Response completed POST /api/chat/fetch - 200"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"system:get took 1ms"}
+{"level":"info","message":"SIGINT received. Self dying gracefully...(:"}

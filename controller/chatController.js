@@ -1,26 +1,45 @@
-const logger = require("../utils/logger");
-const { OLLAMA_MODEL } = require("../config/config");
-const { shuttapyHealthService } = require("../services/ollamaService");
+const BaseController = require("./BaseController");
+const ChatService = require("../services/ChatService");
+const { chatSchema } = require("../validation/chatValidation");
 
-const errorFor = (status) =>
-  status.ollama !== "online"
-    ? "Local AI (Ollama) is not reachable"
-    : `Model "${OLLAMA_MODEL}" is not installed in Ollama`;
+class ChatController extends BaseController {
+  static makeChat = BaseController.asyncHandler(async (req, res) => {
+    // 1. Validate the incoming message.
+    const validatedData = BaseController.validateRequest(chatSchema, req.body);
 
-const checkHealth = async (ack) => {
-  try {
-    const status = await shuttapyHealthService.getStatus();
+    // 2. Start the streaming HTTP response.
+    BaseController.startTextStream(res);
 
-    if (!status.ready) {
-      logger.warn("Shuttapy health check: not ready", status);
-      return ack({ error: errorFor(status) });
+    try {
+      // 3. Generate the reply and forward every chunk.
+      await ChatService.makeChat({
+        ...validatedData,
+
+        onChunk: (chunk) => {
+          BaseController.sendStreamChunk(res, chunk);
+        },
+      });
+
+      // 4. Preserve your existing action logging.
+      BaseController.logAction("CHAT_MESSAGE", null, {
+        messageLength: validatedData.message.length,
+      });
+
+      // 5. Finish the response after generation completes.
+      BaseController.endStream(res);
+    } catch (error) {
+      // Once streaming starts, a JSON error response
+      // cannot safely be sent on the same response.
+      if (res.headersSent) {
+        if (!res.destroyed && !res.writableEnded) {
+          res.destroy(error);
+        }
+        return;
+      }
+
+      throw error;
     }
+  });
+}
 
-    ack(status);
-  } catch (error) {
-    logger.error("Shuttapy health check failed:", error);
-    ack({ error: "Health check failed" });
-  }
-};
-
-module.exports = { checkHealth };
+module.exports = ChatController;
