@@ -1,6 +1,6 @@
 const logger = require("../utils/logger");
 const { OLLAMA_MODEL } = require("../config/config");
-const { shuttapyHealthService } = require("../services/ollamaService");
+const ShuttapyHealthCheckService = require("../services/ShuttapyHealthCheckService");
 
 const errorFor = (status) =>
   status.ollama !== "online"
@@ -9,7 +9,7 @@ const errorFor = (status) =>
 
 const checkHealth = async (ack) => {
   try {
-    const status = await shuttapyHealthService.getStatus();
+    const status = await ShuttapyHealthCheckService.getStatus();
 
     if (!status.ready) {
       logger.warn("Shuttapy health check: not ready", status);

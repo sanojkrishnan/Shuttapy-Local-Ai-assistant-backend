@@ -1,11 +1,11 @@
 const { checkHealth } = require("../controller/OllamaController.js");
-const { getResources } = require("../controller/systemController");
+const SystemController = require("../controller/SystemController.js");
 const { isValidAck } = require("../validation/systemValidation");
 
 const registerSystemSocketRoutes = (socket) => {
   socket.on("system:get", (ack) => {
     if (!isValidAck(ack)) return;
-    getResources(ack);
+    SystemController.getResources(ack);
   });
 };
 
